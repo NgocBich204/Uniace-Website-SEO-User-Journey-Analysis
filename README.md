@@ -9,6 +9,10 @@
 **Analysis Period:** 01/01/2025 – 01/04/2025
 
 ---
+## Live Dashboard
+
+[Open Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOGU4ZjNmOGQtZDliMy00ZjQ2LWJlNjktMGU5MjdkYjZjMjZiIiwidCI6IjZhYzJhZDA2LTY5MmMtNDY2My1iN2FmLWE5ZmYyYTg2NmQwYyIsImMiOjEwfQ%3D%3D)
+
 
 ## Bối cảnh dự án
 
