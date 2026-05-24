@@ -11,7 +11,7 @@
 ---
 ## Live Dashboard
 
-[Open Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOGU4ZjNmOGQtZDliMy00ZjQ2LWJlNjktMGU5MjdkYjZjMjZiIiwidCI6IjZhYzJhZDA2LTY5MmMtNDY2My1iN2FmLWE5ZmYyYTg2NmQwYyIsImMiOjEwfQ%3D%3D)
+[Open Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNTM2ZmRmY2QtZTM1Mi00MDk5LWJkNTYtODNhMDk5YzVlYjc2IiwidCI6IjZhYzJhZDA2LTY5MmMtNDY2My1iN2FmLWE5ZmYyYTg2NmQwYyIsImMiOjEwfQ%3D%3D)
 
 
 ## Bối cảnh dự án
